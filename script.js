@@ -2,7 +2,7 @@ var myName = "Johanne"
 var myFavColor = "Blue"
 var MyAge = "None Ya"
 
-myFunc
+myFunc()
 
 
 function myFunc(){
